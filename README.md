@@ -1,0 +1,4 @@
+budgetron
+=========
+
+Household budget helper
